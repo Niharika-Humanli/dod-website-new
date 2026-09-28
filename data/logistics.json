@@ -1,0 +1,171 @@
+{
+  "hero": {
+    "title": "AI-Powered Logistics Analytics & Supply Chain Intelligence Platform",
+    "subtitle": "Transform logistics operations with AI-driven route optimization, predictive demand planning, real-time shipment tracking, and end-to-end supply chain visibility. Reduce costs, improve delivery performance, and enhance operational efficiency.",
+    "buttonText": "Get Started",
+    "buttonLink": "https://dod.humanli.ai/login"
+  },
+  "section2": {
+    "title": "Logistics Analytics Solutions Across Every Business Function",
+    "subtitle": "Integrate AI-powered intelligence across finance, warehousing, operations, and partner ecosystems to build a resilient, efficient, and data-driven logistics network.",
+    "cards": [
+      {
+        "title": "Finance",
+        "description": "Optimize logistics costs with predictive budgeting, freight cost analytics, and real-time financial visibility.",
+        "link": "/logistics/finance"
+      },
+      {
+        "title": "Manufacturing",
+        "description": "Align production and warehouse operations with demand signals to improve throughput and reduce bottlenecks.",
+        "link": "/Logistics/manufacturing"
+      },
+      {
+        "title": "Operations",
+        "description": "Automate planning, track shipments in real time, and improve delivery performance using AI-driven insights.",
+        "link": "/logistics/operations"
+      },
+      {
+        "title": "Marketing",
+        "description": "Strengthen partner relationships and showcase logistics performance using data-backed insights and transparency.",
+        "link": "/logistics/marketing"
+      }
+    ]
+  },
+  "benefits": {
+    "title": "Why Logistics Companies Choose Data On Demand",
+    "cards": [
+      {
+        "title": "End-to-End Supply Chain Visibility",
+        "description": "Track shipments, warehouses, and partner networks in real time to improve transparency and decision-making."
+      },
+      {
+        "title": "AI-Powered Route Optimization",
+        "description": "Reduce fuel costs, delivery delays, and inefficiencies with intelligent routing based on real-time conditions."
+      },
+      {
+        "title": "Accurate Inventory & Demand Planning",
+        "description": "Forecast demand and maintain optimal inventory levels across distribution centers and warehouses."
+      }
+    ]
+  },
+  "section3": {
+    "title": "Smarter Logistics with Real-Time Data Intelligence",
+    "subtitle": "Predictive, Connected, and Scalable Supply Chain Analytics",
+    "description": "Transform complex logistics data into actionable insights with AI-powered analytics. Improve delivery timelines, reduce operational risks, and enhance supply chain efficiency with real-time intelligence.",
+    "image": "/o.jpeg",
+    "points": [
+      "Predictive ETA and delivery tracking",
+      "AI-powered route and fleet optimization",
+      "Intelligent warehouse throughput management",
+      "End-to-end cold chain and shipment visibility"
+    ],
+    "stats": [
+      { "value": "25%", "title": "Reduced Delivery Delays", "text": "Improved on-time delivery performance" },
+      { "value": "40%", "title": "Lower Transportation Costs", "text": "Optimized routes and fuel efficiency" },
+      { "value": "98%", "title": "Inventory Accuracy", "text": "Near real-time stock visibility" }
+    ],
+    "buttonText": "Explore",
+    "buttonLink": "/logistics/finance"
+  },
+  "capabilities": {
+    "title": "Logistics & Supply Chain Intelligence Capabilities",
+    "cards": [
+      {
+        "icon": "🚛",
+        "title": "Intelligent Route Planning",
+        "description": "Optimize delivery routes using real-time traffic, weather, and demand data to improve efficiency and reduce costs.",
+        "link": "/route-intel"
+      },
+      {
+        "icon": "🏭",
+        "title": "Smart Warehousing",
+        "description": "Automate warehouse operations including picking, slotting, and inventory movement for faster fulfillment.",
+        "link": "/warehouse"
+      },
+      {
+        "icon": "❄️",
+        "title": "Cold Chain Monitoring",
+        "description": "Ensure product integrity with real-time temperature tracking and compliance monitoring across shipments.",
+        "link": "/cold-chain"
+      }
+    ],
+    "quote": "“Data On Demand enables logistics companies to improve visibility, reduce transportation costs, and deliver faster with greater reliability.”",
+    "buttonText": "Explore",
+    "buttonLink": "/contact"
+  },
+  "operations": {
+    "title": "Operational Excellence with Logistics Analytics",
+    "subtitle": "Automated, Predictive, and Real-Time Logistics Execution",
+    "description": "Enable proactive logistics operations using AI-driven workflows that predict disruptions, automate responses, and enhance coordination across the supply chain.",
+    "points": [
+      "Predictive shipment tracking and alerts",
+      "Automated exception management",
+      "Optimized fleet and resource scheduling",
+      "Real-time partner collaboration dashboards"
+    ],
+    "metrics": [
+      { "label": "On-Time Delivery", "value": 95, "caption": "Shipments delivered as scheduled" },
+      { "label": "Fleet Utilization", "value": 82, "caption": "Improved asset productivity" },
+      { "label": "Fulfillment Speed", "value": 88, "caption": "Faster order-to-delivery cycles" }
+    ],
+    "buttonText": "Explore",
+    "buttonLink": "/logistics/operations"
+  },
+  "marketing": {
+    "title": "Data-Driven Logistics & Partner Intelligence",
+    "subtitle": "Strengthen partnerships and improve visibility using analytics-driven communication.",
+    "cards": [
+      {
+        "title": "Performance Transparency",
+        "description": "Showcase delivery reliability, SLA adherence, and operational performance with real-time metrics."
+      },
+      {
+        "title": "Sustainability Analytics",
+        "description": "Track emissions, fuel usage, and green logistics initiatives to promote sustainability."
+      },
+      {
+        "title": "Service Differentiation",
+        "description": "Highlight predictive delivery capabilities and automation-driven logistics advantages."
+      },
+      {
+        "title": "Partner Engagement Insights",
+        "description": "Improve collaboration with suppliers and distributors using shared analytics dashboards."
+      }
+    ],
+    "metrics": [
+      { "label": "Partner Retention", "value": 20, "caption": "Stronger long-term partnerships" },
+      { "label": "Operational Efficiency", "value": 25, "caption": "Improved coordination and execution" },
+      { "label": "Cost Reduction", "value": 35, "caption": "Lower logistics and operational expenses" }
+    ],
+    "buttonText": "Explore",
+    "buttonLink": "/logistics/marketing"
+  },
+  "useCases": {
+    "title": "Logistics Analytics Use Cases",
+    "subtitle": "Transform supply chain performance with AI-powered logistics intelligence.",
+    "items": [
+      {
+        "heading": "Predictive Route Optimization",
+        "text": "Minimize delivery time and fuel consumption using AI-powered routing algorithms."
+      },
+      {
+        "heading": "Cold Chain Monitoring",
+        "text": "Ensure temperature-sensitive goods are maintained across the entire logistics journey."
+      },
+      {
+        "heading": "Fleet Predictive Maintenance",
+        "text": "Reduce downtime and maintenance costs by predicting vehicle failures in advance."
+      },
+      {
+        "heading": "Smart Warehouse Optimization",
+        "text": "Increase warehouse efficiency with AI-driven slotting, picking, and inventory movement."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Transform Your Logistics with AI-Powered Analytics",
+    "subtitle": "Improve delivery performance, reduce costs, and gain real-time supply chain visibility with Data On Demand.",
+    "buttonText": "Book a Demo",
+    "buttonLink": "https://dod.humanli.ai/login"
+  }
+}

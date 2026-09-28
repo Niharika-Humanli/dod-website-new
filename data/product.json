@@ -1,0 +1,266 @@
+{
+  "hero": {
+    "title": "Data on Demand — AI Analytics for Enterprise Leaders",
+    "subtitle": "Turn scattered ERP, CRM, and IoT data into instant, conversational intelligence. Predict outcomes, optimize operations, and benchmark performance with 100% business accuracy — no code, no waiting.",
+    "buttonText": "Start Free Trial",
+    "buttonLink": "https://dod.humanli.ai/login"
+  },
+
+  "section2": {
+    "title": "The Foundation of Intelligent Business Decisions",
+    "challenge": {
+      "title": "The Challenge",
+      "text": "Enterprise decision-makers depend on manual reports and delayed analytics. Critical data arrives days after the decision window closes — costing revenue, efficiency, and competitive advantage. Data on Demand eliminates this delay with specialized AI agents that understand your unique business context in real time."
+    },
+    "solution": {
+      "title": "The Solution",
+      "text": "Domain-trained AI intelligence systems built on patterns unique to each industry vertical. Data on Demand replicates elite consulting teams — identifying root causes, modeling business scenarios, and surfacing strategic decisions at the moment they matter most."
+    },
+    "cards": [
+      {
+        "title": "Cross-Industry AI Breadth",
+        "description": "Pre-trained across manufacturing, logistics, retail, energy, BFSI, and government sectors — delivering day-one intelligence without lengthy setup."
+      },
+      {
+        "title": "Connected Decision Intelligence",
+        "description": "Links cross-functional interdependencies automatically — procurement impacts on cash flow, fleet downtime on delivery SLAs, pricing changes on margin."
+      },
+      {
+        "title": "Ask. Understand. Act.",
+        "description": "The complete Data on Demand experience — AI that reasons through your data, not just summarizes it, so every answer drives a measurable outcome."
+      }
+    ],
+    "image": "/images/section2-bg.jpg"
+  },
+
+  "section3": {
+    "title": "How Data on Demand Works",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Integrate",
+        "text": "Connect every enterprise data source — ERP, CRM, IoT, spreadsheets, and APIs — in minutes. One unified, clean, query-ready data layer across your entire organization."
+      },
+      {
+        "number": "02",
+        "title": "Interact",
+        "text": "Ask business questions via natural language text or voice. AI-powered understanding converts plain-English queries into multi-variable data models instantly."
+      },
+      {
+        "number": "03",
+        "title": "Interpret",
+        "text": "Domain-trained AI agents correlate data across systems, surface hidden trends, and deliver findings in plain business English — complete with instant visual dashboards."
+      },
+      {
+        "number": "04",
+        "title": "Impact",
+        "text": "Every AI response ties directly to measurable business outcomes — costs saved, hours reduced, margins improved, compliance risks mitigated, and revenue protected."
+      }
+    ],
+    "image": "/p.jpeg"
+  },
+
+  "section4": {
+    "title": "How Our AI Agents Outperform Traditional Analytics",
+    "subtitle": "Traditional BI tools deliver static numbers. Data on Demand delivers real-time narrative intelligence that drives action.",
+    "description": "Each AI agent is domain-specific and continuously learning from thousands of real operational cases across industries.",
+    "columns": ["AI Agent Type", "Trained To Understand", "Example Business Queries"],
+    "rows": [
+      {
+        "agentType": "Operations Agent",
+        "trained": "Production efficiency, downtime patterns, process KPIs",
+        "example": "\"Why did production output drop in Unit 3 this week and what is the financial impact?\""
+      },
+      {
+        "agentType": "Finance Agent",
+        "trained": "Cost variance, ROI trends, revenue patterns, budget utilization",
+        "example": "\"What is our cost-per-ton trend compared to last quarter and which units are driving the increase?\""
+      },
+      {
+        "agentType": "Supply Chain Agent",
+        "trained": "Inventory velocity, delivery reliability, vendor performance",
+        "example": "\"Which suppliers caused the highest delivery delays in Q3 and what is the total revenue impact?\""
+      },
+      {
+        "agentType": "Compliance Agent",
+        "trained": "Regulatory thresholds, audit readiness, risk exposure",
+        "example": "\"Which business units missed compliance deadlines this month and what are the penalty risks?\""
+      },
+      {
+        "agentType": "Strategy Agent",
+        "trained": "Demand forecasting, scenario simulation, competitive benchmarking",
+        "example": "\"How will a 5% rise in raw-material costs affect our EBITDA across all product lines?\""
+      }
+    ]
+  },
+
+  "section5": {
+    "title": "Industry-Specific AI Intelligence",
+    "subtitle": "Specialized AI agents pre-trained for deep industry-specific understanding, optimization, and decision support.",
+    "cards": [
+      {
+        "icon": "bi-bar-chart-line",
+        "title": "Manufacturing AI Agent",
+        "description": "Masters production downtime, yield variance, OEE tracking, and lead-time models to drive continuous operational improvement."
+      },
+      {
+        "icon": "bi-currency-dollar",
+        "title": "Finance AI Agent",
+        "description": "Understands cash-flow structures, cost center allocation, margin levers, and budget variance for real-time financial clarity."
+      },
+      {
+        "icon": "bi-cart3",
+        "title": "Retail AI Agent",
+        "description": "Tracks SKU-level pricing, regional demand trends, promotional effectiveness, and consumer price elasticity for smarter merchandising."
+      },
+      {
+        "icon": "bi-truck",
+        "title": "Supply Chain AI Agent",
+        "description": "Optimizes route planning, inventory velocity, vendor lead times, and logistics efficiency to reduce cost and improve delivery reliability."
+      }
+    ],
+    "footerText": "Together, these specialized AI agents form the Consulting Brain of your enterprise — continuously analyzing, learning from outcomes, and recommending high-impact next steps."
+  },
+
+  "section6": {
+    "title": "AI That Thinks Like Your Best Analyst",
+    "subtitle": "Unlike static dashboards, Data on Demand's domain-aware AI agents are fully conversational, context-aware, and reasoning-driven.",
+    "description": "Each agent internalizes your organization's departmental hierarchies, KPIs, and process logic — answering questions exactly as your most senior managers would expect, in seconds.",
+    "cards": [
+      {
+        "title": "Finance AI Agent",
+        "description": "Interprets GL codes, cost centers, budget utilization rates, working capital trends, and ROI targets across all business units."
+      },
+      {
+        "title": "Procurement AI Agent",
+        "description": "Assesses supplier reliability scores, lead-time variance, contract compliance, and payment term optimization opportunities."
+      },
+      {
+        "title": "HR AI Agent",
+        "description": "Correlates workforce productivity metrics with attrition risk, training ROI, and recruitment efficiency to optimize human capital."
+      },
+      {
+        "title": "Energy AI Agent",
+        "description": "Deciphers DSM, DAM, and RTM energy market data for intelligent dispatch scheduling and trading strategy optimization."
+      },
+      {
+        "title": "Logistics AI Agent",
+        "description": "Links route timing, vehicle utilization rates, fuel efficiency, and demand volatility to reduce last-mile delivery costs."
+      },
+      {
+        "title": "Custom AI Agent",
+        "description": "Configurable domain intelligence tailored to your specific business processes, KPIs, and decision workflows."
+      }
+    ],
+    "footerText": "Data on Demand becomes the AI nervous system of your enterprise — always learning, always connected, always delivering actionable intelligence."
+  },
+
+  "section7": {
+    "title": "Core AI Analytics Platform Pillars",
+    "subtitle": "The complete foundation of Data on Demand's enterprise AI platform — connecting intelligence, real-time analytics, and business innovation.",
+    "cards": [
+      {
+        "icon": "lucide-brain",
+        "title": "AI-Powered Analytics",
+        "description": "Advanced machine learning for demand forecasting, anomaly detection, root cause analysis, and autonomous decision optimization."
+      },
+      {
+        "icon": "lucide-bar-chart-3",
+        "title": "Conversational Data Analytics",
+        "description": "Ask business questions in plain English and receive instant visualizations, trend analysis, and predictive insights from live enterprise datasets."
+      },
+      {
+        "icon": "lucide-lightbulb",
+        "title": "Intelligent Process Automation",
+        "description": "Transform manual enterprise workflows into AI-powered decision loops that predict outcomes, prescribe actions, and automate execution."
+      },
+      {
+        "icon": "lucide-compass",
+        "title": "Strategic Business Intelligence",
+        "description": "Simulate market scenarios, stress-test business hypotheses, and quantify strategic impact — moving leadership from gut-feel to evidence-based decisions."
+      },
+      {
+        "icon": "lucide-gauge",
+        "title": "Real-Time Operations Intelligence",
+        "description": "Monitor throughput, downtime, utilization, and cost efficiency across every operational node. Detect performance drifts before they become financial losses."
+      },
+      {
+        "icon": "lucide-activity",
+        "title": "Enterprise Performance Management",
+        "description": "Track ROI, productivity, and efficiency KPIs in a unified, live cross-departmental dashboard that updates automatically with zero manual effort."
+      }
+    ]
+  },
+
+  "section8": {
+    "title": "Enterprise-Grade Security, Compliance & Cloud Scale",
+    "sections": [
+      {
+        "heading": "Security & Regulatory Compliance",
+        "points": [
+          "Zero-trust security architecture",
+          "AES-256 encryption at rest and in transit",
+          "Granular role-based access control (RBAC)",
+          "GDPR, SOC 2 Type II, and India DPDP Act compliant"
+        ]
+      },
+      {
+        "heading": "Global Cloud Scale & Reliability",
+        "points": [
+          "Deployable on AWS, Azure, GCP, or private cloud",
+          "Elastic auto-scaling for peak enterprise workloads",
+          "Multi-region redundancy with automatic failover",
+          "Guaranteed SLA uptime of 99.9% or greater"
+        ]
+      }
+    ],
+    "image": "/p2.jpeg"
+  },
+
+"section9": {
+    "title": "Why Enterprise Leaders Choose Data on Demand",
+    "description": "Every tier of enterprise leadership receives its own tailored AI intelligence lens — instant, secure, and built for action.",
+    "table": [
+      {
+        "role": "CXOs & Board",
+        "gain": "Unified cross-business visibility, predictive foresight, and real-time ROI clarity across all business units"
+      },
+      {
+        "role": "Department Managers",
+        "gain": "Automated performance dashboards, real-time operational decisions, and zero reporting lag"
+      },
+      {
+        "role": "Data Analysts",
+        "gain": "Production-ready data pipelines, accelerated modeling cycles, and elimination of manual data dependencies"
+      },
+      {
+        "role": "Government & Public Sector",
+        "gain": "Scheme performance monitoring, fund utilization tracking, and citizen-level outcome analytics"
+      }
+    ],
+    "metrics": [
+      {
+        "value": "99.9%",
+        "label": "Platform Uptime",
+        "detail": "Guaranteed enterprise-grade availability"
+      },
+      {
+        "value": "10x",
+        "label": "Faster Decisions",
+        "detail": "Versus traditional BI reporting cycles"
+      },
+      {
+        "value": "100%",
+        "label": "Data Visibility",
+        "detail": "Unified cross-departmental intelligence"
+      }
+    ]
+  },
+
+  "section10": {
+    "title": "Ready to Transform Your Business with AI Analytics?",
+    "subtitle": "Join hundreds of enterprise teams using Data on Demand to make faster, smarter, and more profitable decisions every day.",
+    "buttonText": "Start Free Trial — No Credit Card Required",
+    "buttonLink": "https://dod.humanli.ai/login"
+  }
+}

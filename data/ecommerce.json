@@ -1,0 +1,215 @@
+{
+  "hero": {
+    "title": "AI-Powered E-Commerce Analytics for Online Retail Growth",
+    "subtitle": "Transform your online retail business with real-time AI analytics, predictive demand forecasting, dynamic pricing, and personalized shopping experiences — powered by Data on Demand.",
+    "buttonText": "Start Free Trial",
+    "buttonLink": "https://dod.humanli.ai/login"
+  },
+  "section2": {
+    "title": "Explore Data On Demand Across E-Commerce Business Functions",
+    "subtitle": "Empower every department with intelligent, AI-driven decision-making across your entire e-commerce operation.",
+    "cards": [
+      {
+        "title": "Finance",
+        "description": "Transform e-commerce financial operations with predictive analytics, revenue forecasting, and AI-driven cost optimization.",
+        "link": "/ecommerce/finance"
+      },
+      {
+        "title": "Manufacturing",
+        "description": "Optimize production planning and supply chain performance with real-time AI analytics and demand-driven manufacturing intelligence.",
+        "link": "/ecommerce/manufacturing"
+      },
+      {
+        "title": "Operations",
+        "description": "Streamline e-commerce operations, reduce fulfillment time, and improve order accuracy through intelligent workflow automation.",
+        "link": "/ecommerce/operations"
+      },
+      {
+        "title": "Marketing",
+        "description": "Drive online retail growth with AI-powered customer targeting, campaign performance analytics, and personalized marketing automation.",
+        "link": "/ecommerce/marketing"
+      }
+    ]
+  },
+  "benefits": {
+    "title": "Why Leading E-Commerce Businesses Choose Data On Demand",
+    "cards": [
+      {
+        "title": "AI-Powered Demand Forecasting",
+        "description": "Use advanced ML models to predict product demand with 97% accuracy — optimizing stock levels across warehouses, fulfilment centres, and online platforms to prevent stockouts and reduce holding costs."
+      },
+      {
+        "title": "Personalized Product Recommendations",
+        "description": "Leverage AI-driven recommendation algorithms to deliver personalized product suggestions at every touchpoint — increasing average order value, repeat purchases, and conversion rates."
+      },
+      {
+        "title": "Real-Time E-Commerce Intelligence",
+        "description": "Access live performance dashboards that track sales velocity, customer engagement, cart abandonment, and campaign ROI — enabling instant data-driven decisions that protect revenue."
+      }
+    ]
+  },
+  "section3": {
+    "title": "Data On Demand — The AI Intelligence Layer for E-Commerce Success",
+    "subtitle": "Real-Time Business Intelligence That Drives Profitable Online Retail",
+    "description": "Data on Demand delivers powerful, AI-driven insights for your online business — helping you manage operations, improve conversion rates, reduce costs, and drive sustainable e-commerce profitability with always-on analytics.",
+    "image": "/e.jpeg",
+    "points": [
+      "Seamless order management and payment analytics across all channels",
+      "Comprehensive customer lifetime value and behaviour insights",
+      "Real-time inventory visibility and last-mile logistics monitoring",
+      "Automated revenue optimization and margin protection intelligence"
+    ],
+    "stats": [
+      {
+        "value": "45%",
+        "title": "Cost Reduction",
+        "text": "Lower operational expenses through AI-powered automation and intelligent resource allocation"
+      },
+      {
+        "value": "3x",
+        "title": "Faster Processing",
+        "text": "Accelerated reporting cycles and real-time data flow across all e-commerce systems"
+      },
+      {
+        "value": "99.9%",
+        "title": "Analytics Accuracy",
+        "text": "Precise AI-driven insights with minimal data errors across your entire retail operation"
+      }
+    ],
+    "buttonText": "Explore E-Commerce Analytics",
+    "buttonLink": "/ecommerce/finance"
+  },
+  "capabilities": {
+    "title": "Core AI-Powered E-Commerce Capabilities",
+    "cards": [
+      {
+        "icon": "🛒",
+        "title": "Intelligent Product Management",
+        "description": "Automate inventory tracking, dynamic pricing optimization, and real-time product availability management across all sales channels to maximize revenue and reduce stockouts.",
+        "link": "/product-management"
+      },
+      {
+        "icon": "📦",
+        "title": "End-to-End Supply Chain Visibility",
+        "description": "Monitor your entire logistics and fulfilment network in real time — from supplier to doorstep — with AI-powered delay prediction, route optimization, and vendor performance scoring.",
+        "link": "/supply-chain"
+      },
+      {
+        "icon": "💳",
+        "title": "Customer Experience Optimization",
+        "description": "Use AI analytics to personalize every stage of the shopping journey — from product discovery to post-purchase — boosting customer retention, loyalty, and lifetime value.",
+        "link": "/customer-experience"
+      }
+    ],
+    "quote": "Data On Demand transformed our e-commerce operations — improving customer engagement by 45% and reducing operational costs by 30% within the first quarter.",
+    "buttonText": "Explore All Capabilities",
+    "buttonLink": "/ecommerce/manufacturing"
+  },
+  "operations": {
+    "title": "E-Commerce Operational Excellence — Powered by AI",
+    "subtitle": "Empower your e-commerce business with smarter automated workflows, real-time performance intelligence, and AI-driven operational efficiency.",
+    "description": "Coordinate fulfilment teams, logistics partners, and warehouse operations effortlessly with live AI data. Eliminate bottlenecks, reduce manual effort, and enhance productivity across every operational function.",
+    "points": [
+      "AI-powered automated task allocation and workforce optimization",
+      "Real-time order fulfilment performance tracking and SLA monitoring",
+      "Intelligent resource utilisation and cost optimization",
+      "Proactive bottleneck identification before revenue impact occurs"
+    ],
+    "metrics": [
+      {
+        "label": "Operational Efficiency Gain",
+        "value": 85,
+        "caption": "Improved fulfilment workflows through AI-powered process optimization"
+      },
+      {
+        "label": "Manual Processing Time Saved",
+        "value": 70,
+        "caption": "Reduction in manual data entry and report generation tasks"
+      },
+      {
+        "label": "Team Productivity Improvement",
+        "value": 92,
+        "caption": "Enhanced cross-functional collaboration and decision-making speed"
+      }
+    ],
+    "buttonText": "Explore Operations Intelligence",
+    "buttonLink": "/ecommerce/operations"
+  },
+  "marketing": {
+    "title": "AI-Powered E-Commerce Marketing Intelligence",
+    "subtitle": "Data-Driven Marketing Analytics That Maximizes Online Retail Revenue and Customer Lifetime Value",
+    "cards": [
+      {
+        "title": "AI-Targeted Campaign Management",
+        "description": "Precisely reach your highest-value customer segments with AI-optimized campaigns designed for maximum conversion impact and minimal ad spend waste across all digital channels."
+      },
+      {
+        "title": "Deep Customer Behaviour Insights",
+        "description": "Dive deep into customer purchase patterns, browsing behaviour, and lifetime value metrics to inform every marketing decision with real-time, AI-driven intelligence."
+      },
+      {
+        "title": "Hyper-Personalized Shopping Experiences",
+        "description": "Deliver AI-tailored content, product recommendations, and promotional offers that resonate with individual shoppers — fostering stronger brand loyalty and increasing repeat purchase rates."
+      },
+      {
+        "title": "Marketing ROI Optimization",
+        "description": "Maximize return on every marketing dollar with AI-powered spend efficiency analysis, channel attribution modeling, and real-time campaign performance measurement across all touchpoints."
+      }
+    ],
+    "metrics": [
+      {
+        "label": "Customer Engagement Boost",
+        "value": 35,
+        "caption": "Increased customer interaction and session depth through personalization"
+      },
+      {
+        "label": "Conversion Rate Growth",
+        "value": 20,
+        "caption": "Improved add-to-cart and checkout conversion rates"
+      },
+      {
+        "label": "Marketing ROI Improvement",
+        "value": 25,
+        "caption": "Better return on marketing investment across paid and owned channels"
+      }
+    ],
+    "buttonText": "Explore Marketing Analytics",
+    "buttonLink": "/ecommerce/marketing"
+  },
+  "useCases": {
+    "title": "High-Impact AI Use Cases for E-Commerce Businesses",
+    "subtitle": "Harness the power of AI analytics to enhance every dimension of your online retail operation and create seamless, profitable shopping experiences.",
+    "items": [
+      {
+        "heading": "AI-Powered Customer Segmentation",
+        "text": "Identify and target distinct customer groups using behavioral analytics, purchase history, and RFM modeling to deliver hyper-personalized marketing campaigns that convert."
+      },
+      {
+        "heading": "Dynamic Pricing Intelligence",
+        "text": "Automatically adjust product prices in real time based on demand signals, seasonal trends, competitor pricing, and inventory levels to maximize margin without losing volume."
+      },
+      {
+        "heading": "Intelligent Inventory Optimization",
+        "text": "Maintain optimal stock levels across all warehouses and fulfilment centres using AI-driven demand forecasting and replenishment triggers — eliminating stockouts and overstock costs."
+      },
+      {
+        "heading": "Customer Churn Prediction & Retention",
+        "text": "Detect early-warning signals of customer churn using predictive AI models and automatically trigger personalized retention campaigns before high-value customers are lost."
+      },
+      {
+        "heading": "Sales Funnel & Conversion Analytics",
+        "text": "Visualize the complete customer journey from first click to purchase, identify drop-off points, and optimize every conversion touchpoint with data-driven A/B testing insights."
+      },
+      {
+        "heading": "Automated Marketing Intelligence",
+        "text": "Automate ad targeting, email personalization, and content delivery using real-time engagement signals — ensuring every customer receives the right message at the right moment."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to Accelerate Your E-Commerce Growth with AI Analytics?",
+    "subtitle": "Join leading online retailers using Data on Demand to turn e-commerce data into instant, profitable business decisions — every day.",
+    "buttonText": "Request a Free Demo",
+    "buttonLink": "https://dod.humanli.ai/login"
+  }
+}

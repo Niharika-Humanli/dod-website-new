@@ -1,0 +1,106 @@
+{
+  "hero": {
+    "title": "AI-Powered IoT Analytics & Industry 4.0 Intelligence Platform",
+    "subtitle": "Connect devices, monitor real-time telemetry, and optimize industrial operations using AI-driven IoT analytics, predictive maintenance, and edge-to-cloud intelligence.",
+    "buttonText": "Get Started",
+    "buttonLink": "https://dod.humanli.ai/login"
+  },
+  "section2": {
+    "title": "IoT Analytics Across Every Business Function",
+    "subtitle": "Enable real-time decision-making across finance, manufacturing, operations, and marketing with connected device intelligence.",
+    "cards": [
+      { "title": "Finance", "description": "Optimize costs and forecast investments using AI-powered analytics from IoT data.", "link": "/iot/finance" },
+      { "title": "Manufacturing", "description": "Improve production efficiency and reduce downtime using real-time device insights.", "link": "/iot/manufacturing" },
+      { "title": "Operations", "description": "Automate workflows and monitor performance with intelligent IoT systems.", "link": "/iot/operations" },
+      { "title": "Marketing", "description": "Leverage usage data to personalize campaigns and improve customer engagement.", "link": "/iot/marketing" }
+    ]
+  },
+  "benefits": {
+    "title": "Why Choose Data On Demand for IoT Analytics",
+    "cards": [
+      { "title": "Real-Time Device Monitoring", "description": "Continuously track sensors and machines to improve uptime and reduce failures." },
+      { "title": "Predictive Maintenance", "description": "Use AI models to detect anomalies and prevent equipment breakdowns." },
+      { "title": "Process Optimization", "description": "Optimize industrial processes using real-time analytics and automation." }
+    ]
+  },
+  "section3": {
+    "title": "Transform IoT Data into Business Intelligence",
+    "subtitle": "Edge-to-Cloud IoT Analytics Platform",
+    "description": "Convert device telemetry into actionable insights using AI-powered analytics across manufacturing, supply chain, and operations.",
+    "image": "/iot1.jpeg",
+    "points": [
+      "Edge-to-cloud IoT analytics",
+      "Predictive maintenance and anomaly detection",
+      "Energy consumption optimization",
+      "Real-time operational intelligence"
+    ],
+    "stats": [
+      { "value": "30%", "title": "Downtime Reduction", "text": "Lower equipment failures with predictive alerts" },
+      { "value": "2x", "title": "Throughput Increase", "text": "Optimize processes with real-time insights" },
+      { "value": "95%", "title": "System Uptime", "text": "Improve availability with proactive monitoring" }
+    ],
+    "buttonText": "Explore",
+    "buttonLink": "/iot/finance"
+  },
+  "capabilities": {
+    "title": "IoT & Industry 4.0 Capabilities",
+    "cards": [
+      { "icon": "🔌", "title": "Device Connectivity", "description": "Securely connect and manage IoT devices across distributed systems.", "link": "/iot/connect" },
+      { "icon": "⚙️", "title": "Process Automation", "description": "Automate workflows using real-time device triggers and analytics.", "link": "/iot/automation" },
+      { "icon": "📊", "title": "Analytics Dashboards", "description": "Visualize device performance, KPIs, and trends with real-time dashboards.", "link": "/iot/analytics" }
+    ],
+    "quote": "“IoT analytics enabled us to reduce downtime by 30% and improve operational efficiency significantly.”",
+    "buttonText": "Explore",
+    "buttonLink": "/iot/manufacturing"
+  },
+  "operations": {
+    "title": "Operational Excellence with IoT",
+    "subtitle": "Automate workflows and improve efficiency using real-time data.",
+    "description": "Enable seamless coordination across teams with intelligent automation and IoT-driven insights.",
+    "points": [
+      "Automated task allocation",
+      "Real-time performance tracking",
+      "Resource optimization",
+      "Bottleneck identification"
+    ],
+    "metrics": [
+      { "label": "Efficiency Gain", "value": 78, "caption": "Improved operational workflows" },
+      { "label": "Time Saved", "value": 62, "caption": "Reduced manual processes" },
+      { "label": "Team Productivity", "value": 88, "caption": "Enhanced collaboration and efficiency" }
+    ],
+    "buttonText": "Explore",
+    "buttonLink": "/iot/operations"
+  },
+  "marketing": {
+    "title": "IoT Data-Driven Marketing Intelligence",
+    "subtitle": "Leverage device data to improve customer targeting and engagement.",
+    "cards": [
+      { "title": "Targeted Campaigns", "description": "Use IoT insights to deliver highly personalized campaigns." },
+      { "title": "Customer Behavior Insights", "description": "Analyze usage patterns to improve decision-making." },
+      { "title": "Personalized Experiences", "description": "Deliver tailored services using real-time data." },
+      { "title": "ROI Optimization", "description": "Improve marketing performance with measurable analytics." }
+    ],
+    "metrics": [
+      { "label": "Engagement Growth", "value": 22, "caption": "Increased customer interaction" },
+      { "label": "Conversion Rate", "value": 12, "caption": "Improved campaign performance" },
+      { "label": "ROI Increase", "value": 18, "caption": "Better marketing efficiency" }
+    ],
+    "buttonText": "Explore",
+    "buttonLink": "/iot/marketing"
+  },
+  "useCases": {
+    "title": "IoT Analytics Use Cases",
+    "subtitle": "Real-world applications of IoT intelligence across industries.",
+    "items": [
+      { "heading": "Predictive Maintenance", "text": "Detect issues before failures occur." },
+      { "heading": "Supply Chain Tracking", "text": "Monitor goods in real time across networks." },
+      { "heading": "Energy Optimization", "text": "Reduce energy consumption using analytics." }
+    ]
+  },
+  "cta": {
+    "title": "Start Your IoT Transformation Today",
+    "subtitle": "Turn device data into actionable intelligence with AI-powered analytics.",
+    "buttonText": "Request a Demo",
+    "buttonLink": "https://dod.humanli.ai/login"
+  }
+}

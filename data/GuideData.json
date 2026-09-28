@@ -1,0 +1,206 @@
+{
+  "guides": [
+    {
+      "section2": {
+        "background": "#F9FBFF",
+        "image": {
+          "src": "/g.jpeg",
+          "alt": "Go-To-Market Strategy Planning Dashboard"
+        },
+        "title": "AI-Powered Go-To-Market (GTM) Strategy Framework",
+        "cards": [
+          {
+            "icon": "bi bi-bullseye",
+            "title": "Complete GTM Strategy Framework",
+            "description": "Build a scalable go-to-market strategy using data-driven market positioning, customer segmentation, and performance analytics."
+          },
+          {
+            "icon": "bi bi-rocket-takeoff",
+            "title": "Proven GTM Execution Model",
+            "description": "Deploy high-performing GTM strategies using proven frameworks for product launches, customer acquisition, and revenue growth."
+          }
+        ]
+      },
+      "section3": {
+        "background": "#EAF4FB",
+        "image": {
+          "src": "/g1.jpeg",
+          "alt": "Product Launch Analytics Dashboard"
+        },
+        "title": "Product Launch & GTM Analytics Dashboard",
+        "subtitle": "Track, Measure, and Optimize GTM Performance",
+        "description": "Unify product launch data, campaign performance, and customer acquisition metrics into a single dashboard for data-driven go-to-market execution.",
+        "points": [
+          "Track GTM campaign performance across channels",
+          "Monitor conversion funnels and acquisition metrics",
+          "Analyze product-market fit and adoption trends",
+          "Set and optimize GTM performance goals"
+        ]
+      },
+      "section4": {
+        "background": "#F9FBFF",
+        "title": "GTM Strategy Performance Analytics",
+        "cards": [
+          {
+            "title": "Product Launch Performance Metrics",
+            "description": "Measure product launch success using adoption rate, conversion metrics, and revenue impact."
+          },
+          {
+            "title": "Marketing Strategy Efficiency",
+            "description": "Analyze campaign effectiveness, channel ROI, and customer acquisition costs."
+          },
+          {
+            "title": "GTM Strategy Optimization",
+            "description": "Continuously improve GTM performance using real-time analytics and feedback loops."
+          }
+        ]
+      },
+      "section5": {
+        "background": "#FFFFFF",
+        "image": {
+          "src": "/g3.jpeg",
+          "alt": "Customer Journey Analytics Dashboard"
+        },
+        "title": "Customer Journey & Funnel Analytics",
+        "cards": [
+          {
+            "icon": "bi bi-graph-up",
+            "title": "Lead Generation & Conversion",
+            "description": "Track prospects from awareness to conversion across the GTM funnel."
+          },
+          {
+            "icon": "bi bi-search",
+            "title": "Engagement Analytics",
+            "description": "Analyze engagement signals to identify high-intent customers."
+          },
+          {
+            "icon": "bi bi-person-badge",
+            "title": "Customer Lifecycle Management",
+            "description": "Monitor retention, expansion, and lifetime value across the customer journey."
+          }
+        ]
+      },
+      "section6": {
+        "background": "#0F1C2E",
+        "title": "GTM Strategy Maturity Journey",
+        "steps": [
+          {
+            "icon": "bi bi-bullseye",
+            "title": "GTM Foundation",
+            "description": "Define market positioning, target segments, and value proposition."
+          },
+          {
+            "icon": "bi bi-rocket-takeoff",
+            "title": "Execution & Optimization",
+            "description": "Scale campaigns, optimize channels, and improve conversion rates."
+          },
+          {
+            "icon": "bi bi-trophy",
+            "title": "Market Leadership",
+            "description": "Achieve GTM excellence using advanced analytics and continuous optimization."
+          }
+        ],
+        "colors": {
+          "iconBg": "#0540ADaa",
+          "line": "#0540AD66",
+          "text": "#FFFFFF"
+        }
+      },
+      "section7": {
+        "background": "#0F1C2E",
+        "title": "Customer Engagement Scoring for GTM",
+        "subtitle": "Predict and Optimize Customer Behavior",
+        "description": [
+          "Use behavioral analytics and engagement scoring to identify high-value prospects.",
+          "Predict churn risks and improve retention strategies using AI-driven insights."
+        ],
+        "points": [
+          "Track engagement patterns across channels",
+          "Identify high-intent leads",
+          "Predict churn and drop-offs",
+          "Personalize marketing strategies"
+        ],
+        "metrics": [
+          {
+            "label": "Engagement Rate",
+            "value": 85,
+            "description": "Active users in GTM funnel"
+          },
+          {
+            "label": "Adoption Score",
+            "value": 92,
+            "description": "Product usage and satisfaction level"
+          }
+        ],
+        "color": "white"
+      },
+      "section8": {
+        "background": "#FFFFFF",
+        "image": {
+          "src": "/g4.jpeg",
+          "alt": "Customer Engagement Decline Analysis"
+        },
+        "title": "Detect Declining Customer Engagement Using GTM Data",
+        "steps": [
+          {
+            "number": 1,
+            "title": "Initial Engagement",
+            "description": "Track onboarding and early engagement signals."
+          },
+          {
+            "number": 2,
+            "title": "Mid-Funnel Drop",
+            "description": "Identify drop-offs in engagement and campaign interaction."
+          },
+          {
+            "number": 3,
+            "title": "Churn Prediction",
+            "description": "Use analytics to predict churn risks and declining activity."
+          },
+          {
+            "number": 4,
+            "title": "Re-Engagement Strategy",
+            "description": "Implement targeted campaigns to recover engagement."
+          }
+        ],
+        "color": "#0540ADaa"
+      },
+      "section9": {
+        "background": "#FFFFFF",
+        "title": "GTM Funnel & Revenue Metrics",
+        "cards": [
+          {
+            "title": "Lead Acquisition",
+            "description": "Measure lead generation efficiency and cost per acquisition."
+          },
+          {
+            "title": "Conversion Optimization",
+            "description": "Track conversion rates across funnel stages."
+          },
+          {
+            "title": "Revenue Growth",
+            "description": "Monitor revenue impact from GTM strategies."
+          },
+          {
+            "title": "Performance Tracking",
+            "description": "Continuously measure and optimize GTM outcomes."
+          }
+        ],
+        "cardBackground": "#E6F2FF",
+        "textColor": "#1E2A3B"
+      },
+      "guides": [
+        {
+          "id": "dashboard",
+          "title": "Full-Funnel GTM Dashboard",
+          "description": "Track marketing and sales metrics from acquisition to revenue in one unified dashboard."
+        },
+        {
+          "id": "forecasting",
+          "title": "Revenue Forecasting Analytics",
+          "description": "Use predictive analytics to forecast pipeline and revenue growth."
+        }
+      ]
+    }
+  ]
+}

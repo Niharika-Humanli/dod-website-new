@@ -1,0 +1,245 @@
+{
+  "hero": {
+    "title": "AI-Powered Data Analytics Solutions for Enterprise Decision-Makers",
+    "subtitle": "Transform scattered ERP, CRM, and IoT data into real-time, conversational business intelligence. Data on Demand delivers instant AI-driven decisions — no code, no delays, no guesswork.",
+    "buttonText": "Start Free Trial — No Credit Card Required",
+    "buttonLink": "https://dod.humanli.ai/login"
+  },
+
+  "section2": {
+    "title": "AI Decision Engine — The Cognitive Core of Your Enterprise",
+    "image": "/p3.jpeg",
+    "points": [
+      {
+        "heading": "Analytical Core & Strategic Business Transformation",
+        "text": "The AI Decision Engine is Data on Demand's analytical core — transforming complex enterprise business questions into predictive and prescriptive recommendations with quantified financial impact. Every insight is tied directly to a measurable business outcome your leadership team can act on."
+      },
+      {
+        "heading": "Hybrid LLM + ML Architecture for Rapid Enterprise Insights",
+        "text": "Our hybrid Large Language Model (LLM) and Machine Learning (ML) architecture delivers rapid, precise multi-variable optimization — instantly generating executive-ready insights across finance, operations, supply chain, and compliance without manual intervention."
+      }
+    ],
+    "stats": [
+      {
+        "value": "4x",
+        "label": "Faster Decisions",
+        "subtext": "Accelerated strategic decision-making speed"
+      },
+      {
+        "value": "60%",
+        "label": "Time Saved",
+        "subtext": "Reduction in manual analysis and reporting time"
+      },
+      {
+        "value": "95%",
+        "label": "AI Accuracy",
+        "subtext": "Strategic recommendation precision rate"
+      }
+    ]
+  },
+
+  "section3": {
+    "title": "AI-Powered Executive Dashboards — Driving Smarter Business Decisions",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Smart Shelf Analytics AI Agent",
+        "text": "Monitor shelf stock levels, planogram compliance, and out-of-stock gaps in real time using AI-powered computer vision and predictive replenishment intelligence to prevent lost sales."
+      },
+      {
+        "number": "02",
+        "title": "Consumer Insights AI Agent",
+        "text": "Analyze customer sentiment, feedback patterns, and emerging market trends using NLP to drive customer retention, accelerate product development, and protect revenue streams."
+      },
+      {
+        "number": "03",
+        "title": "Dynamic Pricing Engine AI Agent",
+        "text": "Optimize product pricing in real time — balancing margin targets and volume goals — with daily AI-driven pricing recommendations powered by live demand signals and competitive intelligence."
+      },
+      {
+        "number": "04",
+        "title": "Promotion Effectiveness AI Agent",
+        "text": "Measure marketing campaign impact across all channels, simulate promotional ROI scenarios, and maximize Return on Marketing Investment (ROMI) using advanced AI-powered analytics."
+      },
+      {
+        "number": "05",
+        "title": "Distributor Performance AI Agent",
+        "text": "Track distributor coverage rates, on-time delivery performance, and fraud detection patterns to ensure supply chain efficiency, reduce revenue leakage, and improve distribution ROI."
+      },
+      {
+        "number": "06",
+        "title": "Actionable Dashboards & Reporting AI Agent",
+        "text": "Receive automated anomaly alerts, real-time exception detection, and decision-ready intelligence across all AI agents — delivering the right insight to the right stakeholder at the right moment."
+      }
+    ]
+  },
+
+  "section4": {
+    "title": "Predictive AI Intelligence Models — Forecast Before It Happens",
+    "subtitle": "Industry-Specific Machine Learning That Sees What Others Miss",
+    "description": "Data on Demand's custom ML models are trained on sector-specific enterprise datasets — forecasting demand shifts, risk events, cost overruns, and equipment failures with industry-leading confidence and accuracy so your teams can act before problems occur.",
+    "industries": [
+      {
+        "icon": "fa-solid fa-industry",
+        "name": "Manufacturing AI Analytics",
+        "text": "97% accurate demand forecasting and predictive maintenance intelligence for unplanned downtime reduction, production yield optimization, and OEE improvement."
+      },
+      {
+        "icon": "fa-solid fa-bolt",
+        "name": "Energy Sector AI Intelligence",
+        "text": "15-minute block load forecasting for DSM optimization, renewable energy dispatch scheduling, and power trading strategy to maximize market arbitrage."
+      },
+      {
+        "icon": "fa-solid fa-piggy-bank",
+        "name": "BFSI Risk Analytics AI",
+        "text": "Default probability modeling, credit risk forecasting, and real-time fraud pattern detection to protect financial services institutions from losses."
+      },
+      {
+        "icon": "fa-solid fa-cart-shopping",
+        "name": "Retail & FMCG AI Analytics",
+        "text": "Price elasticity modeling, promotion effectiveness measurement, and demand forecasting for retail margin optimization and inventory cost reduction."
+      }
+    ],
+    "impactTitle": "Quantitative Business Impact",
+    "impacts": [
+      { "label": "Forecast Error Reduction Across Industries", "value": 90 },
+      { "label": "Cost Avoidance Through Early Risk Detection", "value": 100 },
+      { "label": "Early Anomaly & Failure Detection Rate", "value": 95 }
+    ]
+  },
+
+  "section4_5": {
+    "title": "Logistics & Supply Chain AI Agents",
+    "subtitle": "Intelligent AI solutions to optimize routes, warehouse operations, and shipment visibility",
+    "description": "Leverage specialized AI agents to enhance operational efficiency, reduce logistics costs, and improve service levels across your entire supply chain and distribution ecosystem.",
+    "cards": [
+      {
+        "title": "Route Optimization AI Agent",
+        "description": "Optimizes fleet routes using live traffic data, weather conditions, and driver constraints — reducing total distance traveled, fuel consumption, and SLA breach rates across your logistics network.",
+        "icon": "fa-solid fa-route"
+      },
+      {
+        "title": "Warehouse Efficiency AI Agent",
+        "description": "Enhances warehouse layout design, pick path optimization, and workforce allocation for faster order throughput, reduced travel distance, and lower labor cost per unit.",
+        "icon": "fa-solid fa-warehouse"
+      },
+      {
+        "title": "Shipment Visibility AI Agent",
+        "description": "Aggregates real-time shipment data, predicts delivery delays before they occur, and provides proactive rerouting alerts and automated exception handling to protect customer SLAs.",
+        "icon": "fa-solid fa-shipping-fast"
+      },
+      {
+        "title": "Supplier Risk Analyzer AI Agent",
+        "description": "Continuously monitors supplier financial health, operational reliability, and ESG compliance risks — providing risk scores and alternative supplier recommendations to prevent costly supply disruptions.",
+        "icon": "fa-solid fa-user-shield"
+      },
+      {
+        "title": "Carbon Footprint AI Agent",
+        "description": "Calculates Scope 1, 2, and 3 emissions across your entire supply chain and recommends data-driven decarbonization strategies to improve ESG performance and meet regulatory compliance targets.",
+        "icon": "fa-solid fa-leaf"
+      },
+      {
+        "title": "Energy & Power Sector AI Agent",
+        "description": "Forecasts energy loads, optimizes power trading positions, monitors generation assets, ensures regulatory compliance, and manages renewable energy dispatch for maximum operational efficiency.",
+        "icon": "fa-solid fa-bolt"
+      }
+    ]
+  },
+
+  "section5": {
+    "title": "Why Enterprise Leaders Choose Data on Demand for AI Analytics",
+    "subtitle": "A purpose-built AI analytics ecosystem designed for enterprise-grade decision intelligence at scale.",
+    "cards": [
+      {
+        "icon": "fa-solid fa-bolt",
+        "title": "Real-Time Business Intelligence",
+        "description": "Get AI-powered insights as fast as your data changes — eliminating the wait for manual reports and delayed analytics cycles that cost your business revenue."
+      },
+      {
+        "icon": "fa-solid fa-layer-group",
+        "title": "Industry-Tuned AI Models",
+        "description": "Our AI agents are pre-trained on industry-specific datasets — not generic models — delivering domain-accurate intelligence and measurable business impact from day one."
+      },
+      {
+        "icon": "fa-solid fa-lock",
+        "title": "Enterprise-Grade Data Security",
+        "description": "Keep sensitive enterprise data secure with zero third-party data sharing, AES-256 encryption, SOC 2 Type II compliance, and granular role-based access control."
+      },
+      {
+        "icon": "fa-solid fa-globe",
+        "title": "Global Enterprise Scalability",
+        "description": "Scale effortlessly across business units, departments, geographies, and cloud environments — without additional infrastructure investment or lengthy implementation cycles."
+      }
+    ],
+    "footerText": "Trusted by enterprise teams across manufacturing, retail, energy, logistics, and financial services for AI-driven decision intelligence that delivers measurable ROI."
+  },
+
+  "section6": {
+    "title": "ROI Tracker — Measurable Proof of Business Impact",
+    "subtitle": "Every Data on Demand deployment includes a live ROI Tracker that continuously quantifies financial savings, time reductions, and efficiency improvements across your entire organization.",
+    "metricsTitle": "Key Business Metrics Tracked in Real Time",
+    "metrics": [
+      "Cost savings and avoidance across all business units",
+      "Hours optimized and recovered from manual processes",
+      "Margin uplift and revenue protection",
+      "Operational process efficiency improvement",
+      "Environmental impact — CO₂ reduction and ESG compliance metrics"
+    ],
+    "tableTitle": "Typical Enterprise ROI Within 6 Months of Deployment",
+    "table": {
+      "columns": ["Industry Sector", "Typical ROI", "Primary Value Driver"],
+      "rows": [
+        { "sector": "Manufacturing", "roi": "8–12×", "keyDriver": "Downtime reduction & energy cost efficiency" },
+        { "sector": "Energy & Utilities", "roi": "6–10×", "keyDriver": "DSM optimization & power market arbitrage" },
+        { "sector": "Retail & FMCG", "roi": "5–8×", "keyDriver": "Inventory cost reduction & campaign efficiency" },
+        { "sector": "Government & Public Sector", "roi": "4–6×", "keyDriver": "Fund utilization improvement & transparency" },
+        { "sector": "BFSI & Financial Services", "roi": "7–9×", "keyDriver": "Fraud loss reduction & credit risk forecasting" }
+      ]
+    },
+    "footer": {
+      "title": "From Enterprise Data to Profitable Business Decisions",
+      "text": "Data on Demand is your AI-powered digital consulting partner. Our domain-trained agents interpret root causes, surface hidden opportunities, and guide real-time business decisions — exactly as a senior management consultant would, but instantly and at scale.",
+      "highlight": "You bring the enterprise data. Data on Demand delivers the intelligence."
+    }
+  },
+
+  "section7": {
+    "title": "Enterprise Cloud Security & Governance Framework",
+    "subtitle": "Zero-Trust Security Architecture That Scales With Your Business",
+    "description": "Data on Demand employs a zero-trust, multi-cloud security framework with layered AES-256 encryption, granular role-based access control, and continuous compliance monitoring — protecting your most sensitive enterprise data at every layer of the stack.",
+    "features": [
+      {
+        "title": "AES-256 End-to-End Encryption",
+        "description": "All enterprise data is encrypted at rest and in transit using AES-256 and TLS 1.3 — the highest commercial encryption standard available for enterprise data protection."
+      },
+      {
+        "title": "SOC 2 Type II & ISO 27001 Certified",
+        "description": "Fully compliant with SOC 2 Type II, ISO 27001, India DPDP Act, and GDPR — meeting the strictest global enterprise security and data privacy requirements."
+      },
+      {
+        "title": "Granular Role-Based Access Control",
+        "description": "Enforce department-level, role-level, and data-level permissions across every user, team, and business unit — ensuring the right people see only the data they need."
+      },
+      {
+        "title": "99.99% Guaranteed Platform Uptime",
+        "description": "Multi-region redundancy with automatic failover clusters ensures 99.99% SLA uptime — keeping your AI analytics platform always available when critical business decisions need to be made."
+      }
+    ],
+    "outcomes": {
+      "title": "Proven Enterprise Security & Compliance Outcomes",
+      "points": [
+        "Zero data breaches across all enterprise deployments",
+        "40% reduction in IT security audit time and overhead",
+        "Full regulatory compliance with DPDP India, GDPR EU, and SOC 2 Type II"
+      ]
+    },
+    "image": "/p2.jpeg"
+  },
+
+  "callToAction": {
+    "title": "Ready to Transform Your Enterprise with Real-Time AI Analytics?",
+    "subtitle": "Join hundreds of global enterprise teams using Data on Demand to turn scattered data into instant, profitable business decisions — every single day.",
+    "buttonText": "Start Free Trial — No Credit Card Required",
+    "buttonLink": "https://dod.humanli.ai/login"
+  }
+}

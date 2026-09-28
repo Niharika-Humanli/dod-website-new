@@ -1,0 +1,106 @@
+{
+  "hero": {
+    "title": "AI-Powered Energy Analytics & Smart Grid Intelligence Platform",
+    "subtitle": "Optimize grid operations, improve reliability, and accelerate renewable energy adoption using AI-driven energy analytics, demand forecasting, and real-time insights.",
+    "buttonText": "Get Started",
+    "buttonLink": "https://dod.humanli.ai/login"
+  },
+  "section2": {
+    "title": "Energy Analytics Across Power & Utility Functions",
+    "subtitle": "Empower finance, generation, grid operations, and customer engagement teams with real-time data intelligence.",
+    "cards": [
+      { "title": "Finance", "description": "Optimize tariffs, forecast demand, and improve asset investment decisions with predictive analytics.", "link": "/power/finance" },
+      { "title": "Manufacturing", "description": "Improve plant performance, reduce downtime, and maximize generation efficiency.", "link": "/power/manufacturing" },
+      { "title": "Operations", "description": "Monitor grid health, prevent outages, and optimize dispatch using real-time intelligence.", "link": "/power/operations" },
+      { "title": "Marketing", "description": "Communicate sustainability initiatives and reliability improvements with data-backed insights.", "link": "/power/marketing" }
+    ]
+  },
+  "benefits": {
+    "title": "Why Energy & Utility Companies Choose Data On Demand",
+    "cards": [
+      { "title": "Grid Reliability & Outage Prediction", "description": "Use AI to detect faults early and prevent power outages before they occur." },
+      { "title": "Renewable Energy Optimization", "description": "Forecast solar and wind generation to balance supply and demand effectively." },
+      { "title": "Asset Performance Optimization", "description": "Improve equipment utilization, reduce maintenance costs, and extend asset lifespan." }
+    ]
+  },
+  "section3": {
+    "title": "Smart Energy Management with Real-Time Analytics",
+    "subtitle": "AI-Driven Intelligence for Modern Power Grids",
+    "description": "Integrate SCADA, IoT sensors, weather data, and demand signals to optimize energy generation, distribution, and consumption.",
+    "image": "/f.jpeg",
+    "points": [
+      "Predictive outage detection and prevention",
+      "Renewable generation forecasting",
+      "Asset performance and health monitoring",
+      "Demand response and load optimization"
+    ],
+    "stats": [
+      { "value": "35%", "title": "Faster Outage Detection", "text": "Identify faults before they escalate" },
+      { "value": "22%", "title": "Higher Forecast Accuracy", "text": "Improve generation and load planning" },
+      { "value": "15%", "title": "Reduced O&M Costs", "text": "Optimize maintenance and scheduling" }
+    ],
+    "buttonText": "Explore",
+    "buttonLink": "/power/finance"
+  },
+  "capabilities": {
+    "title": "Energy & Smart Grid Intelligence Capabilities",
+    "cards": [
+      { "icon": "⚡", "title": "Outage Prediction", "description": "Predict grid failures and automate response workflows to minimize downtime.", "link": "/outage-prediction" },
+      { "icon": "🌤️", "title": "Renewable Forecasting", "description": "Accurately forecast solar and wind generation to balance energy supply.", "link": "/renewables" },
+      { "icon": "🔧", "title": "Asset Health Monitoring", "description": "Monitor equipment performance and prevent failures using predictive analytics.", "link": "/asset-health" }
+    ],
+    "quote": "“Data On Demand improved grid reliability, reduced outages, and accelerated renewable integration across our network.”",
+    "buttonText": "Explore",
+    "buttonLink": "/contact"
+  },
+  "operations": {
+    "title": "Operational Excellence in Energy & Utilities",
+    "subtitle": "Build a resilient, efficient, and intelligent energy network.",
+    "description": "Automate grid monitoring, improve dispatch efficiency, and enhance response times using AI-driven analytics.",
+    "points": [
+      "Real-time SCADA and IoT monitoring",
+      "Automated outage management workflows",
+      "Demand response optimization",
+      "Integrated grid analytics dashboards"
+    ],
+    "metrics": [
+      { "label": "Grid Uptime", "value": 99, "caption": "High network availability" },
+      { "label": "Forecast Accuracy", "value": 87, "caption": "Improved scheduling precision" },
+      { "label": "Response Time", "value": 45, "caption": "Faster fault resolution (minutes)" }
+    ],
+    "buttonText": "Explore",
+    "buttonLink": "/power/operations"
+  },
+  "marketing": {
+    "title": "Sustainability & Energy Customer Engagement",
+    "subtitle": "Showcase clean energy progress and reliability using real data.",
+    "cards": [
+      { "title": "Carbon Emission Tracking", "description": "Measure and communicate reductions in carbon footprint." },
+      { "title": "Renewable Adoption Insights", "description": "Highlight success in integrating clean energy sources." },
+      { "title": "Demand Response Programs", "description": "Engage consumers in smart energy usage and load balancing." }
+    ],
+    "metrics": [
+      { "label": "CO2 Reduction", "value": 12, "caption": "Lower emissions footprint" },
+      { "label": "Renewable Share", "value": 28, "caption": "Increase in clean energy usage" },
+      { "label": "Customer Programs", "value": 14, "caption": "Active energy engagement initiatives" }
+    ],
+    "buttonText": "Explore",
+    "buttonLink": "/power/marketing"
+  },
+  "useCases": {
+    "title": "Energy Analytics Use Cases",
+    "subtitle": "Improve efficiency, reliability, and sustainability.",
+    "items": [
+      { "heading": "Outage Prediction", "text": "Detect faults early and prevent disruptions." },
+      { "heading": "Renewable Scheduling", "text": "Balance energy supply with variable generation sources." },
+      { "heading": "Asset Optimization", "text": "Extend equipment life through predictive maintenance." },
+      { "heading": "Demand Response", "text": "Reduce peak loads and optimize grid performance." }
+    ]
+  },
+  "cta": {
+    "title": "Build a Smarter, More Reliable Energy Network",
+    "subtitle": "Leverage AI-driven analytics to improve efficiency, sustainability, and grid performance.",
+    "buttonText": "Book a Demo",
+    "buttonLink": "https://dod.humanli.ai/login"
+  }
+}

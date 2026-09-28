@@ -1,0 +1,203 @@
+{
+  "hero": {
+    "title": "AI-Powered Fintech Analytics & Financial Intelligence Platform",
+    "subtitle": "Transform financial operations with AI-driven analytics, real-time fraud detection, risk modeling, and customer intelligence. Improve compliance, reduce losses, and enhance customer experience.",
+    "buttonText": "Get Started",
+    "buttonLink": "https://dod.humanli.ai/login"
+  },
+  "section2": {
+    "title": "Fintech Analytics Across Every Business Function",
+    "subtitle": "Empower finance, operations, risk, and marketing teams with real-time insights and AI-driven decision-making.",
+    "cards": [
+      {
+        "title": "Finance",
+        "description": "Optimize financial planning, forecasting, and reconciliation with AI-powered analytics.",
+        "link": "/fintech/finance"
+      },
+      {
+        "title": "Manufacturing",
+        "description": "Streamline financial product delivery systems and backend processing workflows.",
+        "link": "/fintech/manufacturing"
+      },
+      {
+        "title": "Operations",
+        "description": "Automate financial workflows, monitor transactions, and improve operational efficiency.",
+        "link": "/fintech/operations"
+      },
+      {
+        "title": "Marketing",
+        "description": "Drive customer acquisition and retention using data-driven insights and personalization.",
+        "link": "/fintech/marketing"
+      }
+    ]
+  },
+  "benefits": {
+    "title": "Why Fintech Companies Choose Data On Demand",
+    "cards": [
+      {
+        "title": "AI-Powered Fraud Detection & Risk Management",
+        "description": "Detect anomalous transactions in real time and reduce fraud losses using machine learning models."
+      },
+      {
+        "title": "Regulatory Compliance & Reporting Automation",
+        "description": "Automate compliance workflows, generate audit trails, and simplify regulatory reporting."
+      },
+      {
+        "title": "Customer Intelligence & Personalization",
+        "description": "Analyze customer behavior, improve segmentation, and deliver personalized financial products."
+      }
+    ]
+  },
+  "section3": {
+    "title": "Transform Financial Services with AI Analytics",
+    "subtitle": "Secure, Scalable, and Intelligent Fintech Solutions",
+    "description": "Leverage AI and machine learning to enhance fraud detection, automate reconciliation, and optimize financial decision-making across your organization.",
+    "image": "/iot.jpeg",
+    "points": [
+      "Real-time fraud detection and transaction scoring",
+      "Automated reconciliation and settlement processes",
+      "Customer lifetime value (CLTV) modeling",
+      "Regulatory compliance and reporting automation"
+    ],
+    "stats": [
+      {
+        "value": "40%",
+        "title": "Fraud Reduction",
+        "text": "Minimize fraudulent transactions and chargebacks"
+      },
+      {
+        "value": "1.8x",
+        "title": "Faster Onboarding",
+        "text": "Accelerate KYC and customer verification processes"
+      },
+      {
+        "value": "99.5%",
+        "title": "Transaction Accuracy",
+        "text": "Improve reconciliation and payment processing accuracy"
+      }
+    ],
+    "buttonText": "Explore",
+    "buttonLink": "/fintech/finance"
+  },
+  "capabilities": {
+    "title": "Fintech Intelligence Capabilities",
+    "cards": [
+      {
+        "icon": "💳",
+        "title": "Payments & Settlement Optimization",
+        "description": "Streamline payment routing, reduce failures, and automate reconciliation processes.",
+        "link": "/fintech/payments"
+      },
+      {
+        "icon": "🔒",
+        "title": "Fraud Detection & Risk Analytics",
+        "description": "Monitor transactions in real time and detect suspicious activities using AI models.",
+        "link": "/fintech/fraud"
+      },
+      {
+        "icon": "📈",
+        "title": "Predictive Analytics & Financial Modeling",
+        "description": "Build models for credit scoring, churn prediction, and customer lifetime value optimization.",
+        "link": "/fintech/analytics"
+      }
+    ],
+    "quote": "“Data On Demand reduced manual reconciliation efforts and significantly improved fraud detection accuracy.”",
+    "buttonText": "Explore",
+    "buttonLink": "/fintech/manufacturing"
+  },
+  "operations": {
+    "title": "Operational Excellence in Fintech",
+    "subtitle": "Automate workflows and improve financial operations with real-time insights.",
+    "description": "Streamline processes, reduce manual effort, and improve efficiency across financial systems using AI-driven automation.",
+    "points": [
+      "Automated transaction monitoring",
+      "Real-time performance tracking",
+      "Resource and workflow optimization",
+      "Risk and anomaly detection"
+    ],
+    "metrics": [
+      {
+        "label": "Efficiency Gain",
+        "value": 82,
+        "caption": "Improved operational performance"
+      },
+      {
+        "label": "Time Saved",
+        "value": 68,
+        "caption": "Reduced manual processing"
+      },
+      {
+        "label": "Team Productivity",
+        "value": 90,
+        "caption": "Enhanced collaboration and automation"
+      }
+    ],
+    "buttonText": "Explore",
+    "buttonLink": "/fintech/operations"
+  },
+  "marketing": {
+    "title": "Data-Driven Fintech Marketing Intelligence",
+    "subtitle": "Acquire, engage, and retain customers using advanced analytics.",
+    "cards": [
+      {
+        "title": "Targeted Financial Offers",
+        "description": "Deliver personalized financial products based on customer behavior and needs."
+      },
+      {
+        "title": "Customer Behavior Analytics",
+        "description": "Understand usage patterns to improve retention and cross-selling strategies."
+      },
+      {
+        "title": "Personalized Customer Experience",
+        "description": "Tailor communication and offers to maximize engagement and lifetime value."
+      },
+      {
+        "title": "Marketing ROI Optimization",
+        "description": "Measure and improve campaign performance with real-time analytics."
+      }
+    ],
+    "metrics": [
+      {
+        "label": "Engagement Growth",
+        "value": 28,
+        "caption": "Higher customer interaction"
+      },
+      {
+        "label": "Conversion Rate",
+        "value": 16,
+        "caption": "Improved product adoption"
+      },
+      {
+        "label": "ROI Increase",
+        "value": 21,
+        "caption": "Better marketing efficiency"
+      }
+    ],
+    "buttonText": "Explore",
+    "buttonLink": "/fintech/marketing"
+  },
+  "useCases": {
+    "title": "Fintech Analytics Use Cases",
+    "subtitle": "Real-world applications of AI in financial services.",
+    "items": [
+      {
+        "heading": "Fraud Detection",
+        "text": "Identify suspicious transactions in real time using AI models."
+      },
+      {
+        "heading": "Credit Scoring",
+        "text": "Improve lending decisions using predictive analytics."
+      },
+      {
+        "heading": "Customer Onboarding",
+        "text": "Reduce friction and improve KYC processes using automation."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Modernize Your Financial Operations with AI",
+    "subtitle": "Improve efficiency, reduce risk, and deliver better customer experiences with Data On Demand.",
+    "buttonText": "Request a Demo",
+    "buttonLink": "https://dod.humanli.ai/login"
+  }
+}

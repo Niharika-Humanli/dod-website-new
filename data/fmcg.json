@@ -1,0 +1,161 @@
+{
+  "hero": {
+    "title": "AI-Powered FMCG Analytics & Demand Intelligence Platform",
+    "subtitle": "Accelerate FMCG growth with AI-driven demand forecasting, supply chain optimization, and real-time consumer insights. Transform raw data into actionable intelligence to improve sales, reduce waste, and maximize profitability.",
+    "buttonText": "Get Started",
+    "buttonLink": "https://dod.humanli.ai/login"
+  },
+  "section2": {
+    "title": "FMCG Analytics Solutions Across Every Business Function",
+    "subtitle": "Unlock real-time, AI-powered insights across finance, manufacturing, operations, and marketing. Data On Demand enables faster, smarter, and more accurate decision-making across the entire FMCG value chain.",
+    "cards": [
+      {
+        "title": "Finance",
+        "description": "Enhance financial planning with predictive revenue forecasting, cost optimization, and real-time financial analytics.",
+        "link": "/fmcg/finance"
+      },
+      {
+        "title": "Manufacturing",
+        "description": "Optimize production efficiency, reduce downtime, and improve resource utilization with real-time manufacturing analytics.",
+        "link": "/fmcg/manufacturing"
+      },
+      {
+        "title": "Operations",
+        "description": "Streamline logistics, warehousing, and inventory management using AI-powered operational intelligence.",
+        "link": "/fmcg/operations"
+      },
+      {
+        "title": "Marketing",
+        "description": "Drive growth through targeted campaigns, customer insights, and data-driven marketing strategies.",
+        "link": "/fmcg/marketing"
+      }
+    ]
+  },
+  "benefits": {
+    "title": "Why FMCG Companies Choose Data On Demand",
+    "cards": [
+      {
+        "title": "Predictive Demand Forecasting",
+        "description": "Improve forecast accuracy using AI-powered models that reduce stockouts, minimize excess inventory, and enhance supply planning efficiency."
+      },
+      {
+        "title": "Unified Consumer Intelligence",
+        "description": "Integrate retail, eCommerce, and digital channels to gain a 360° view of customer behavior, preferences, and buying patterns."
+      },
+      {
+        "title": "End-to-End Supply Chain Visibility",
+        "description": "Monitor suppliers, distributors, and inventory in real time to ensure product availability, reduce delays, and optimize logistics performance."
+      }
+    ]
+  },
+  "section3": {
+    "title": "Driving FMCG Growth with Real-Time Data Intelligence",
+    "subtitle": "Transform Decision-Making with AI-Powered Analytics",
+    "description": "Transform decision-making across manufacturing, supply chain, and marketing with advanced analytics. Data On Demand empowers FMCG leaders with real-time insights to improve operational efficiency, forecast demand accurately, and respond faster to market changes.",
+    "image": "/f.jpeg",
+    "points": [
+      "AI-powered SKU-level demand forecasting",
+      "End-to-end supply chain visibility",
+      "Data-driven pricing and promotion optimization",
+      "Reduced waste and improved inventory turnover"
+    ],
+    "stats": [
+      { "value": "35%", "title": "Waste Reduction", "text": "Lower inventory losses and spoilage" },
+      { "value": "2.5x", "title": "Faster Insights", "text": "Accelerated data-to-decision cycles" },
+      { "value": "97%", "title": "Forecast Accuracy", "text": "Better alignment of demand and supply" }
+    ],
+    "buttonText": "Explore",
+    "buttonLink": "/FMCG/finance"
+  },
+  "capabilities": {
+    "title": "FMCG Manufacturing & Supply Chain Intelligence",
+    "cards": [
+      {
+        "icon": "🏭",
+        "title": "Smart Production Planning",
+        "description": "Align production schedules with real-time demand signals and inventory levels to maximize efficiency and reduce operational costs.",
+        "link": "/fmcg/manufacturing/planning"
+      },
+      {
+        "icon": "⚙️",
+        "title": "Quality & Yield Optimization",
+        "description": "Use real-time production analytics to minimize defects, improve product consistency, and enhance manufacturing yield.",
+        "link": "/fmcg/manufacturing/quality"
+      },
+      {
+        "icon": "🔄",
+        "title": "Sustainable Manufacturing Operations",
+        "description": "Reduce energy consumption, material waste, and downtime through intelligent, data-driven manufacturing insights.",
+        "link": "/fmcg/manufacturing/sustainability"
+      }
+    ],
+    "quote": "“Data On Demand enables FMCG companies to optimize production, reduce waste, and respond faster to dynamic consumer demand.”",
+    "buttonText": "Explore",
+    "buttonLink": "/contact"
+  },
+  "operations": {
+    "title": "Operational Excellence with FMCG Analytics",
+    "subtitle": "Streamline supply chain, logistics, and inventory management using AI-powered insights.",
+    "description": "Achieve real-time coordination across procurement, warehousing, and retail execution using intelligent analytics and automation.",
+    "points": [
+      "Automated demand replenishment",
+      "Supplier and distributor performance tracking",
+      "Real-time inventory monitoring",
+      "Promotion impact analysis"
+    ],
+    "metrics": [
+      { "label": "Fill Rate", "value": 94, "caption": "Orders fulfilled accurately" },
+      { "label": "On-Time Delivery", "value": 90, "caption": "Optimized logistics efficiency" },
+      { "label": "Forecast Accuracy", "value": 96, "caption": "Enhanced planning precision" }
+    ],
+    "buttonText": "Explore",
+    "buttonLink": "/fmcg/operations"
+  },
+  "marketing": {
+    "title": "Data-Driven FMCG Marketing Intelligence",
+    "subtitle": "Optimize campaigns, improve targeting, and maximize ROI using advanced analytics and consumer insights.",
+    "cards": [
+      {
+        "title": "Targeted Promotions",
+        "description": "Deliver personalized campaigns using customer segmentation and behavioral insights to maximize engagement."
+      },
+      {
+        "title": "Product Mix Optimization",
+        "description": "Identify the ideal product assortment across regions, stores, and channels using data-driven insights."
+      },
+      {
+        "title": "Campaign Performance Analytics",
+        "description": "Track campaign ROI in real time and continuously optimize strategies for better performance."
+      },
+      {
+        "title": "Customer Retention Insights",
+        "description": "Analyze repeat purchase behavior and customer lifetime value to improve retention and loyalty."
+      }
+    ],
+    "metrics": [
+      { "label": "Engagement Lift", "value": 32, "caption": "Higher campaign participation" },
+      { "label": "Repeat Purchase Rate", "value": 18, "caption": "Improved customer retention" },
+      { "label": "Promotion ROI", "value": 25, "caption": "Better marketing spend efficiency" }
+    ],
+    "buttonText": "Explore",
+    "buttonLink": "/fmcg/marketing"
+  },
+  "useCases": {
+    "title": "FMCG Analytics Use Cases",
+    "subtitle": "Transform operations, marketing, and supply chain with AI-powered insights.",
+    "items": [
+      { "heading": "Smart Inventory Management", "text": "Optimize stock levels using predictive analytics across warehouses and retail outlets." },
+      { "heading": "Omnichannel Data Integration", "text": "Unify POS, retail, and eCommerce data for complete business visibility." },
+      { "heading": "Promotion Effectiveness Tracking", "text": "Measure campaign ROI and adjust strategies in real time." },
+      { "heading": "Sustainability & Waste Reduction", "text": "Reduce logistics inefficiencies and minimize environmental impact." },
+      { "heading": "Dynamic Pricing Optimization", "text": "Adjust pricing based on demand trends, competition, and market conditions." },
+      { "heading": "Advanced Customer Segmentation", "text": "Create hyper-personalized customer experiences using AI-driven segmentation." }
+    ]
+  },
+  "cta": {
+    "title": "Transform Your FMCG Business with AI-Driven Analytics",
+    "subtitle": "Leverage real-time insights, predictive intelligence, and advanced analytics to stay ahead in the competitive FMCG market.",
+    "buttonText": "Request a Demo",
+    "buttonLink": "https://dod.humanli.ai/login"
+  }
+}

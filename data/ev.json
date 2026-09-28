@@ -1,0 +1,107 @@
+{
+  "hero": {
+    "title": "AI-Powered EV Analytics & Electric Mobility Intelligence Platform",
+    "subtitle": "Optimize battery performance, charging infrastructure, and EV fleet operations using AI-driven analytics, real-time monitoring, and predictive intelligence.",
+    "buttonText": "Get Started",
+    "buttonLink": "https://dod.humanli.ai/login"
+  },
+  "section2": {
+    "title": "EV Analytics Across the Electric Mobility Ecosystem",
+    "subtitle": "Empower manufacturing, fleet operations, energy management, and customer engagement with connected EV data intelligence.",
+    "cards": [
+      { "title": "EV Finance", "description": "Optimize costs, pricing, and revenue models with predictive EV analytics.", "link": "/ev/finance" },
+      { "title": "Manufacturing", "description": "Improve EV production efficiency and reduce downtime with real-time analytics.", "link": "/ev/manufacturing" },
+      { "title": "Marketing", "description": "Enhance customer engagement using usage-based insights and personalization.", "link": "/ev/marketing" },
+      { "title": "Operations", "description": "Optimize fleet performance, charging, and energy consumption with AI insights.", "link": "/ev/operations" }
+    ]
+  },
+  "benefits": {
+    "title": "Why EV Companies Choose Data On Demand",
+    "cards": [
+      { "title": "Battery Analytics & Lifecycle Prediction", "description": "Monitor battery health, degradation, and performance using AI models." },
+      { "title": "Smart Charging Optimization", "description": "Balance grid load, reduce energy costs, and improve charging efficiency." },
+      { "title": "Fleet Performance Monitoring", "description": "Track EV usage, efficiency, and maintenance in real time." }
+    ]
+  },
+  "section3": {
+    "title": "Driving the Future of Electric Mobility with Data",
+    "subtitle": "Real-Time EV Intelligence Platform",
+    "description": "Connect vehicles, charging infrastructure, and energy systems into a unified analytics platform for smarter decision-making.",
+    "image": "/iot2.jpeg",
+    "points": [
+      "Predictive maintenance and fault detection",
+      "Battery performance and temperature analytics",
+      "Smart charging and energy optimization",
+      "Connected vehicle and user insights"
+    ],
+    "stats": [
+      { "value": "40%", "title": "Maintenance Cost Reduction", "text": "Lower repair and downtime costs" },
+      { "value": "3x", "title": "Operational Efficiency", "text": "Faster decision-making with data" },
+      { "value": "99.8%", "title": "System Reliability", "text": "High uptime across EV networks" }
+    ],
+    "buttonText": "Explore",
+    "buttonLink": "/ev/finance"
+  },
+  "capabilities": {
+    "title": "EV Intelligence & Mobility Capabilities",
+    "cards": [
+      { "icon": "🔋", "title": "Battery Intelligence", "description": "Analyze battery health, performance, and lifecycle using AI analytics.", "link": "/ev/manufacturing" },
+      { "icon": "🚗", "title": "Fleet Optimization", "description": "Monitor routes, efficiency, and utilization for cost-effective operations.", "link": "/ev/fleet" },
+      { "icon": "⚡", "title": "Charging Optimization", "description": "Optimize charging infrastructure and energy distribution in real time.", "link": "/ev/charging" }
+    ],
+    "quote": "“Data On Demand improved EV fleet efficiency, battery performance, and operational uptime significantly.”",
+    "buttonText": "Explore",
+    "buttonLink": "/ev/manufacturing"
+  },
+  "operations": {
+    "title": "Operational Excellence for EV Systems",
+    "subtitle": "Enable intelligent, connected, and efficient EV operations.",
+    "description": "Optimize fleet management, predictive maintenance, and energy usage with real-time analytics.",
+    "points": [
+      "Predictive fault detection",
+      "Dynamic fleet scheduling",
+      "Energy consumption optimization",
+      "Smart grid integration"
+    ],
+    "metrics": [
+      { "label": "Fleet Uptime", "value": 88, "caption": "More vehicles operational" },
+      { "label": "Energy Efficiency", "value": 82, "caption": "Optimized battery and charging usage" },
+      { "label": "Maintenance Reduction", "value": 65, "caption": "Fewer breakdowns and repairs" }
+    ],
+    "buttonText": "Explore",
+    "buttonLink": "/ev/operations"
+  },
+  "marketing": {
+    "title": "EV Customer & Mobility Insights",
+    "subtitle": "Enhance engagement using data-driven EV insights.",
+    "cards": [
+      { "title": "Driver Behavior Analytics", "description": "Understand driving patterns and improve efficiency and safety." },
+      { "title": "Charging Behavior Insights", "description": "Analyze charging habits to optimize infrastructure and services." },
+      { "title": "Personalized Engagement", "description": "Deliver targeted offers based on EV usage patterns." },
+      { "title": "Sustainability Reporting", "description": "Showcase emission reduction and environmental impact." }
+    ],
+    "metrics": [
+      { "label": "Customer Retention", "value": 30, "caption": "Improved user loyalty" },
+      { "label": "Charging Efficiency", "value": 25, "caption": "Optimized charging operations" },
+      { "label": "Engagement Growth", "value": 40, "caption": "Higher participation in EV programs" }
+    ],
+    "buttonText": "Explore",
+    "buttonLink": "/ev/marketing"
+  },
+  "useCases": {
+    "title": "EV Analytics Use Cases",
+    "subtitle": "Optimize electric mobility with AI-driven insights.",
+    "items": [
+      { "heading": "Battery Lifecycle Prediction", "text": "Predict battery degradation and maintenance needs." },
+      { "heading": "Smart Fleet Routing", "text": "Optimize routes based on charge levels and traffic conditions." },
+      { "heading": "Grid Load Balancing", "text": "Manage energy distribution across charging stations." },
+      { "heading": "Charging Infrastructure Planning", "text": "Identify optimal charging station locations using data." }
+    ]
+  },
+  "cta": {
+    "title": "Accelerate Your EV Strategy with AI Analytics",
+    "subtitle": "Improve performance, efficiency, and sustainability with real-time EV intelligence.",
+    "buttonText": "Request a Demo",
+    "buttonLink": "https://dod.humanli.ai/login"
+  }
+}

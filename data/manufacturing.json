@@ -1,0 +1,107 @@
+{
+  "hero": {
+    "title": "AI-Powered Manufacturing Analytics & Production Intelligence",
+    "subtitle": "Optimize production lines, reduce downtime, improve quality, and maximize throughput with AI-driven manufacturing analytics and real-time operational insights.",
+    "buttonText": "Get Started",
+    "buttonLink": "https://dod.humanli.ai/login"
+  },
+  "section2": {
+    "title": "Manufacturing Analytics Across Every Business Function",
+    "subtitle": "Empower finance, production, operations, and supply chain teams with real-time data intelligence and AI-driven decision-making.",
+    "cards": [
+      { "title": "Finance", "description": "Improve cost control, margin forecasting, and capital planning with predictive analytics.", "link": "/manufacturing/finance" },
+      { "title": "Manufacturing", "description": "Enhance OEE, reduce downtime, and optimize production performance using real-time insights.", "link": "/manufacturing/manufacturing" },
+      { "title": "Operations", "description": "Automate workflows, reduce bottlenecks, and improve production efficiency.", "link": "/manufacturing/operations" },
+      { "title": "Marketing", "description": "Communicate product quality, reliability, and manufacturing excellence using data-driven insights.", "link": "/manufacturing/marketing" }
+    ]
+  },
+  "benefits": {
+    "title": "Why Manufacturers Choose Data On Demand",
+    "cards": [
+      { "title": "Reduced Downtime with Predictive Maintenance", "description": "Detect machine failures early and prevent unplanned production stoppages." },
+      { "title": "Improved Yield and Quality", "description": "Identify root causes of defects and reduce scrap, rework, and quality issues." },
+      { "title": "Faster Production Ramp-Up", "description": "Accelerate new product introductions with data-driven process optimization." }
+    ]
+  },
+  "section3": {
+    "title": "Smart Manufacturing with Real-Time Analytics",
+    "subtitle": "AI-Powered Operational Intelligence for Production",
+    "description": "Unify machine data, quality metrics, and production performance into actionable insights to improve efficiency, reduce waste, and enhance output.",
+    "image": "/m.jpeg",
+    "points": [
+      "Predictive maintenance and failure detection",
+      "Quality anomaly detection and root cause analysis",
+      "Production throughput optimization",
+      "Energy consumption and efficiency insights"
+    ],
+    "stats": [
+      { "value": "30%", "title": "Reduced Downtime", "text": "Lower unplanned machine failures" },
+      { "value": "15%", "title": "Higher Yield", "text": "Reduced scrap and improved quality" },
+      { "value": "20%", "title": "Faster Production Ramp", "text": "Quicker time-to-optimized output" }
+    ],
+    "buttonText": "Explore",
+    "buttonLink": "/manufacturing/finance"
+  },
+  "capabilities": {
+    "title": "Manufacturing Intelligence Capabilities",
+    "cards": [
+      { "icon": "⚙️", "title": "Predictive Maintenance", "description": "Use AI to predict equipment failures and schedule maintenance proactively.", "link": "/predictive-maintenance" },
+      { "icon": "🔬", "title": "Quality Analytics", "description": "Detect quality deviations and optimize production processes in real time.", "link": "/quality-analytics" },
+      { "icon": "📊", "title": "Throughput Optimization", "description": "Identify bottlenecks and improve production cycle efficiency.", "link": "/throughput" }
+    ],
+    "quote": "“Data On Demand helped us improve OEE, reduce downtime, and increase production efficiency significantly.”",
+    "buttonText": "Explore",
+    "buttonLink": "/contact"
+  },
+  "operations": {
+    "title": "Operational Excellence in Manufacturing",
+    "subtitle": "Run production efficiently with AI-driven insights.",
+    "description": "Automate monitoring, optimize workflows, and improve resource allocation across production lines.",
+    "points": [
+      "Real-time production monitoring",
+      "Automated incident detection and alerts",
+      "Shift-level KPI tracking",
+      "Integrated MES and analytics dashboards"
+    ],
+    "metrics": [
+      { "label": "OEE", "value": 86, "caption": "Improved equipment efficiency" },
+      { "label": "Changeover Time", "value": 12, "caption": "Reduced setup time" },
+      { "label": "Quality Yield", "value": 98, "caption": "High first-pass yield" }
+    ],
+    "buttonText": "Explore",
+    "buttonLink": "/manufacturing/operations"
+  },
+  "marketing": {
+    "title": "Manufacturing Performance & Product Marketing",
+    "subtitle": "Showcase manufacturing excellence with real data.",
+    "cards": [
+      { "title": "Performance Case Studies", "description": "Demonstrate measurable improvements in production efficiency and quality." },
+      { "title": "Sustainability Metrics", "description": "Highlight energy savings and waste reduction initiatives." },
+      { "title": "Product Reliability Insights", "description": "Communicate improved product durability and consistency." },
+      { "title": "Channel Enablement", "description": "Equip partners with performance data for better sales positioning." }
+    ],
+    "metrics": [
+      { "label": "Customer Satisfaction", "value": 92, "caption": "Improved product quality perception" },
+      { "label": "Warranty Claims", "value": 7, "caption": "Reduced product failures" },
+      { "label": "Time-to-Market", "value": 18, "caption": "Faster product launches" }
+    ],
+    "buttonText": "Explore",
+    "buttonLink": "/manufacturing/marketing"
+  },
+  "useCases": {
+    "title": "Manufacturing Analytics Use Cases",
+    "subtitle": "Drive measurable improvements across production.",
+    "items": [
+      { "heading": "Predictive Maintenance", "text": "Prevent equipment failures and reduce downtime." },
+      { "heading": "Quality Root Cause Analysis", "text": "Identify process deviations causing defects." },
+      { "heading": "Throughput Optimization", "text": "Improve cycle times and eliminate bottlenecks." },
+      { "heading": "Energy Efficiency Optimization", "text": "Reduce energy consumption per unit produced." }
+    ]
+  },
+  "cta": {
+    "title": "Transform Your Manufacturing with AI Analytics",
+    "subtitle": "Improve efficiency, reduce costs, and optimize production using real-time insights.",
+    "buttonText": "Book a Demo",
+    "buttonLink": "/contact"
+  }
+}

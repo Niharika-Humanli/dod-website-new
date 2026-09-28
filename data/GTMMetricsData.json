@@ -1,0 +1,187 @@
+{
+  "gtmMetrics": {
+    "hero": {
+      "title": "GTM Metrics Library & Go-To-Market Analytics Framework",
+      "subtitle": "Track, analyze, and optimize every stage of your go-to-market strategy using data-driven GTM metrics and performance indicators.",
+      "button": {
+        "text": "Explore",
+        "link": "https://dod.humanli.ai/login"
+      }
+    },
+    "section2": {
+      "title": "Core GTM Performance Metrics",
+      "cards": [
+        {
+          "title": "GTM Launch Performance",
+          "description": "Measure product launch success using adoption rate, revenue growth, and customer acquisition metrics."
+        },
+        {
+          "title": "Channel Effectiveness Analytics",
+          "description": "Identify high-performing marketing channels and optimize budget allocation for maximum ROI."
+        },
+        {
+          "title": "Revenue Acceleration Metrics",
+          "description": "Track sales velocity, deal cycle time, and pipeline conversion efficiency."
+        }
+      ]
+    },
+    "section3": {
+      "title": "Customer Journey & Funnel Analytics",
+      "image": "/g.jpeg",
+      "cards": [
+        {
+          "icon": "bi bi-graph-up",
+          "title": "Lead-to-Revenue Conversion",
+          "description": "Analyze how leads move through the funnel and convert into revenue."
+        },
+        {
+          "icon": "bi bi-search",
+          "title": "Engagement Tracking",
+          "description": "Measure engagement across campaigns, demos, and product usage."
+        },
+        {
+          "icon": "bi bi-person-badge",
+          "title": "Retention & Expansion Metrics",
+          "description": "Track renewal, upsell, and customer lifetime value."
+        }
+      ]
+    },
+    "section4": {
+      "title": "GTM Dashboard & Performance Tracking",
+      "subtitle": "Real-Time Insights for Market Execution",
+      "image": "/g1.jpeg",
+      "points": [
+        "Track GTM performance across all channels",
+        "Analyze conversion rates and ROI",
+        "Monitor adoption and retention trends",
+        "Benchmark performance by product or segment"
+      ],
+      "description": "Centralize all GTM KPIs into one dashboard for real-time performance monitoring and optimization."
+    },
+    "section5": {
+      "title": "Customer Engagement Scoring",
+      "subtitle": "Optimize GTM Using Behavioral Data",
+      "description": [
+        "Score customer engagement using behavioral and intent data.",
+        "Identify high-value accounts and churn risks early."
+      ],
+      "metrics": [
+        {
+          "label": "Active Engagement",
+          "percentage": "85%",
+          "description": "Customers actively interacting with GTM campaigns"
+        },
+        {
+          "label": "Adoption Index",
+          "percentage": "92%",
+          "description": "Depth of product usage and activation"
+        }
+      ],
+      "points": [
+        "Track engagement trends",
+        "Identify churn signals",
+        "Predict expansion opportunities",
+        "Optimize GTM campaigns"
+      ]
+    },
+    "section6": {
+      "title": "Detect Declining Engagement",
+      "image": "/g4.jpeg",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Initial Activation",
+          "description": "Track onboarding and early engagement signals."
+        },
+        {
+          "number": "2",
+          "title": "Engagement Drop",
+          "description": "Identify declining activity across GTM touchpoints."
+        },
+        {
+          "number": "3",
+          "title": "Predictive Alerts",
+          "description": "Trigger alerts for churn risk using analytics."
+        },
+        {
+          "number": "4",
+          "title": "Re-Engagement",
+          "description": "Launch targeted campaigns to recover engagement."
+        }
+      ]
+    },
+    "section7": {
+      "title": "GTM Strategy Framework",
+      "image": "/g3.jpeg",
+      "cards": [
+        {
+          "icon": "bi bi-bullseye",
+          "title": "GTM Operating Model",
+          "description": "Define positioning, segmentation, and execution strategies."
+        },
+        {
+          "icon": "bi bi-rocket-takeoff",
+          "title": "GTM Acceleration Model",
+          "description": "Scale GTM execution using performance benchmarks and analytics."
+        }
+      ]
+    },
+    "section8": {
+      "title": "GTM Funnel Metrics",
+      "cards": [
+        {
+          "title": "Lead Qualification",
+          "description": "Measure lead quality and readiness."
+        },
+        {
+          "title": "Conversion Tracking",
+          "description": "Track conversion across funnel stages."
+        },
+        {
+          "title": "Revenue Impact",
+          "description": "Measure revenue contribution of GTM campaigns."
+        },
+        {
+          "title": "Performance Optimization",
+          "description": "Continuously improve GTM execution."
+        }
+      ]
+    },
+    "section9": {
+      "title": "Revenue Performance Metrics",
+      "cards": [
+        {
+          "title": "Pipeline Velocity",
+          "description": "Measure deal progression speed."
+        },
+        {
+          "title": "Customer Acquisition Cost",
+          "description": "Optimize cost efficiency of acquisition."
+        },
+        {
+          "title": "Revenue Retention",
+          "description": "Track recurring revenue and retention."
+        }
+      ]
+    },
+    "section10": {
+      "title": "GTM Optimization & Maturity Metrics",
+      "image": "/o.jpeg",
+      "description": "Measure GTM maturity, alignment, and execution efficiency using continuous performance analytics.",
+      "points": [
+        "Track GTM alignment across teams",
+        "Measure content and enablement usage",
+        "Analyze feedback loops",
+        "Monitor GTM maturity progression"
+      ]
+    },
+    "cta": {
+      "title": "Start Optimizing Your GTM Strategy Today",
+      "subtitle": "Leverage data-driven metrics to improve performance and drive revenue growth.",
+      "button": {
+        "text": "Contact Us",
+        "link": "https://dod.humanli.ai/login"
+      }
+    }
+  }
+}
